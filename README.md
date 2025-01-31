@@ -29,8 +29,6 @@ Food Delivery it's a new Food delivery websity.
 </br>
 ⚡️ JavaScript
 </br>
-⚡️ Redux (For State Management)
-</br>
 
 # Demo Link
 
