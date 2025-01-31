@@ -1,1 +1,1 @@
-Built a responsive and interactive user interface with React.js, leveraging reusable components, Redux for state management, and seamless routing. Designed and developed RESTful APIs with Node.js and Express.js for efficient and secure front-end and back-end communication. Integrated MongoDB for dynamic data storage, ensuring scalability and optimized performance with effective schema design. Implemented secure payment processing using the Stripe API for smooth and encrypted end-user transactions. Technologies Used: React.js, Redux, Node.js, Express.js, MongoDB, Stripe API
+
